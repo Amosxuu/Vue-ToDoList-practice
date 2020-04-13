@@ -1,1 +1,21 @@
-#app[data-v-0a346267]{font-family:Noto Sans TC,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50;font-size:4em}#nav[data-v-0a346267]{padding:30px}#nav a[data-v-0a346267]{color:#2c3e50;text-decoration:none}#nav a.router-link-exact-active[data-v-0a346267]{color:#42b983}
+#app[data-v-0a346267] {
+    font-family: Noto Sans TC, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2em
+}
+
+#nav[data-v-0a346267] {
+    padding: 30px
+}
+
+#nav a[data-v-0a346267] {
+    color: #2c3e50;
+    text-decoration: none
+}
+
+#nav a.router-link-exact-active[data-v-0a346267] {
+    color: #42b983
+}
